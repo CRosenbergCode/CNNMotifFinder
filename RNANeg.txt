@@ -1,0 +1,973 @@
+AaegL5_1	262325	287876	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012105;description=Zinc finger protein-like 1 homolog [Source:UniProtKB/Swiss-Prot%3BAcc:Q16N38];ebi_biotype=protein_coding
+AaegL5_1	1220894	1222654	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011381;description=NADH-ubiquinone oxidoreductase fe-s protein 2 (ndufs2);ebi_biotype=protein_coding
+AaegL5_1	1288798	1352325	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011386;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	1352273	1354250	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011379;description=coenzyme q10 biosynthesis protein;ebi_biotype=protein_coding
+AaegL5_1	3446927	3487491	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011206;description=aminoacylase%2C putative;ebi_biotype=protein_coding
+AaegL5_1	4199681	4202105	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009766;description=lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase;ebi_biotype=protein_coding
+AaegL5_1	5583963	5586046	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000223;description=alpha-glucosidase;ebi_biotype=protein_coding
+AaegL5_1	5601353	5603113	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000241;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	8639634	8641218	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005531;description=venom allergen;ebi_biotype=protein_coding
+AaegL5_1	8680737	8715411	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005527;description=Probable exonuclease mut-7 homolog (EC 3.1.-.-)(Exonuclease 3'-5' domain-containing protein 3 homolog);ebi_biotype=protein_coding
+AaegL5_1	9874037	10290266	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005526;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	11145352	11188027	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020042;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	11580121	11598448	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002343;description=neuronal pas domain protein;ebi_biotype=protein_coding
+AaegL5_1	11625188	11927760	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019424;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	15751522	15753524	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004163;description=O-fucosyltransferase%2C putative;ebi_biotype=protein_coding
+AaegL5_1	16539271	16541463	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011356;description=alcohol dehydrogenase;ebi_biotype=protein_coding
+AaegL5_1	17886115	17888980	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013844;description=diazepam binding inhibitor%2C putative;ebi_biotype=protein_coding
+AaegL5_1	18437637	18439099	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014201;description=chaperone protein%2C putative;ebi_biotype=protein_coding
+AaegL5_1	18904927	19285425	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL015411;description=glutamine-dependent NAD(+) synthetase;ebi_biotype=protein_coding
+AaegL5_1	18921559	19079417	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020941;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	22582791	22691994	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005839;description=uridine phosphorylase;ebi_biotype=protein_coding
+AaegL5_1	25305341	25306453	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002176;description=inosine-uridine preferring nucleoside hydrolase;ebi_biotype=protein_coding
+AaegL5_1	25358035	25359135	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002148;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	28420765	28421577	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001439;Name=mRpL22;description=mitochondrial ribosomal protein%2C L22%2C putative;ebi_biotype=protein_coding
+AaegL5_1	28441162	28506750	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001433;description=fgf receptor activating protein;ebi_biotype=protein_coding
+AaegL5_1	29226283	29228717	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021728;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	29356869	29357830	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009017;Name=GSTT1;description=glutathione transferase;ebi_biotype=protein_coding
+AaegL5_1	32798867	32801696	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014000;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	39773075	39777604	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009531;description=niemann-pick C1;ebi_biotype=protein_coding
+AaegL5_1	39863287	39957352	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019656;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	39988344	40017256	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012861;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	40062643	40066597	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004397;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	44024977	44114354	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008232;description=sugar transporter;ebi_biotype=protein_coding
+AaegL5_1	46336199	46337648	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007464;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	46513955	46529581	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020543;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	50918194	50961033	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010559;description=vacuolar protein sorting vps16;ebi_biotype=protein_coding
+AaegL5_1	51981487	52146987	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008028;description=monocarboxylate transporter;ebi_biotype=protein_coding
+AaegL5_1	52846387	52847472	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006819;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	56302179	56332402	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019876;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	56338981	56352936	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019877;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	57446504	57472549	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021953;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	58393653	58413974	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002077;description=UV excision repair protein rad23;ebi_biotype=protein_coding
+AaegL5_1	59706295	59708408	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001236;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	60167383	60193185	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021548;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	62372917	62375522	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020238;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	63998957	64032579	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008539;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	64050919	64053926	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008536;description=UCR-motif DNA binding protein%2C putative;ebi_biotype=protein_coding
+AaegL5_1	64079852	64106632	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023261;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	64182453	64184069	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008533;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	64220060	64231956	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021303;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	64508625	64524443	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013682;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_1	65230692	65252822	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008921;description=myosin regulatory light chain 2 smooth muscle;ebi_biotype=protein_coding
+AaegL5_1	65686807	65716705	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003883;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	67576986	67605412	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009772;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	68666253	68797447	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023159;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	69998685	70011342	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014729;description=protein serine/threonine kinase%2C putative;ebi_biotype=protein_coding
+AaegL5_1	74149371	74251679	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011023;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	76901999	76917085	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012258;description=platelet-activating factor acetylhydrolase ib;ebi_biotype=protein_coding
+AaegL5_1	80929132	80941321	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008938;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	80947201	81027364	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019533;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	81996268	82002942	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008341;description=Adenosylhomocysteinase [Source:UniProtKB/TrEMBL%3BAcc:Q1HQR0];ebi_biotype=protein_coding
+AaegL5_1	83824244	83833603	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014272;description=molybdopterin cofactor sulfurase (mosc);ebi_biotype=protein_coding
+AaegL5_1	88422965	88425027	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021206;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	89322733	89323470	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002503;description=yippee protein;ebi_biotype=protein_coding
+AaegL5_1	90382905	90386164	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002514;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	90544637	90797094	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019422;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	91121215	91246247	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002499;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	92327841	92409578	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009872;description=alanine aminotransferase;ebi_biotype=protein_coding
+AaegL5_1	97542090	97550832	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009480;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	97573122	97596685	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009483;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	97701742	97784450	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009475;description=carbamoyl-phosphate synthase large chain;ebi_biotype=protein_coding
+AaegL5_1	98669420	98671782	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021489;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	98942761	98997141	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002435;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	101061721	101062760	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006382;description=trypsin-eta%2C putative;ebi_biotype=protein_coding
+AaegL5_1	103528055	103562373	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013845;description=endoplasmic reticulum resident protein (ERp44)%2C putative;ebi_biotype=protein_coding
+AaegL5_1	104655841	104953369	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004236;description=arf6 guanine nucleotide exchange factor;ebi_biotype=protein_coding
+AaegL5_1	104967843	104983938	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004234;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	108117776	108148925	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002918;description=centaurin beta;ebi_biotype=protein_coding
+AaegL5_1	111177648	111349621	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001447;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	120330585	120331096	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011580;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	125242551	125277320	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014335;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	126085504	126096423	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006158;description=histone H3.3;ebi_biotype=protein_coding
+AaegL5_1	127900137	127934434	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007038;description=prolyl 4-hydroxylase alpha subunit 1;ebi_biotype=protein_coding
+AaegL5_1	129110006	129146325	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003046;description=saposin;ebi_biotype=protein_coding
+AaegL5_1	129183875	129225124	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020006;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	130794886	130815245	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017455;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	134422513	134445440	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022931;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	137095666	137131214	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004074;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	137417550	137418939	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004081;description=dj-1 protein (park7);ebi_biotype=protein_coding
+AaegL5_1	138809373	138812076	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001627;description=udp-n-acteylglucosamine pyrophosphorylase;ebi_biotype=protein_coding
+AaegL5_1	138847966	138848755	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001615;Name=mRpS18C;description=mitochondrial ribosomal protein%2C S18C%2C putative;ebi_biotype=protein_coding
+AaegL5_1	140174949	140185864	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010939;description=group ii plp decarboxylase;ebi_biotype=protein_coding
+AaegL5_1	140639323	140641318	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010089;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	142346015	142362728	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012140;description=tRNA-dihydrouridine synthase;ebi_biotype=protein_coding
+AaegL5_1	142518600	142549519	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012138;description=24-dehydrocholesterol reductase;ebi_biotype=protein_coding
+AaegL5_1	142765752	142770617	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013109;description=glutamate transporter;ebi_biotype=protein_coding
+AaegL5_1	142830176	142863932	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013115;description=gpi inositol deacylase pgap1;ebi_biotype=protein_coding
+AaegL5_1	142934277	142940677	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014040;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	142940779	142950823	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017435;description=BTB domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4G607];ebi_biotype=protein_coding
+AaegL5_1	144023342	144028170	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013522;description=pinn;ebi_biotype=protein_coding
+AaegL5_1	144860417	144887381	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004563;description=26S protease regulatory subunit S10b;ebi_biotype=protein_coding
+AaegL5_1	144901240	144918762	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004554;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	144943563	144972325	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004546;Name=betaCop;description=coatomer beta subunit;ebi_biotype=protein_coding
+AaegL5_1	146049784	146066585	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012616;description=NADP transhydrogenase;ebi_biotype=protein_coding
+AaegL5_1	146251098	146405103	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019473;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	146502338	146515963	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012242;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	147347973	147368000	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011750;description=actin;ebi_biotype=protein_coding
+AaegL5_1	150140027	150170019	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014523;description=neuroendocrine convertase;ebi_biotype=protein_coding
+AaegL5_1	153447511	153620369	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011830;description=Probable methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase)(EC 4.2.1.109);ebi_biotype=protein_coding
+AaegL5_1	154220043	154230882	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020467;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	154906429	155017899	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013404;description=tetraspanin%2C putative;ebi_biotype=protein_coding
+AaegL5_1	157675548	157958849	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006947;Name=GPRTAK2;description=GPCR Neurokinin/Tachykinin Family;ebi_biotype=protein_coding
+AaegL5_1	158244451	158266099	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013828;description=translation initiation factor eif-2b;ebi_biotype=protein_coding
+AaegL5_1	158960097	158981396	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004699;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	159395665	159397179	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022213;description=26S proteasome non-ATPase regulatory subunit [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FP45];ebi_biotype=protein_coding
+AaegL5_1	159421647	159444998	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010052;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	162011813	162106489	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL025569;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	166930184	166992918	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006711;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	176513781	176557869	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002428;description=BTB domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F1N4];ebi_biotype=protein_coding
+AaegL5_1	177306217	177320444	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002408;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	184173525	184204925	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022183;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	184360544	184411193	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006069;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	185198720	185212770	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001065;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	192802118	192889771	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013334;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	193152997	193221627	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010015;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	194478342	194493692	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022574;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	194565901	194573546	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000138;description=NADH dehydrogenase%2C putative;ebi_biotype=protein_coding
+AaegL5_1	194829212	194850428	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018110;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	194947333	194948175	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000147;description=single-stranded DNA binding protein%2C putative;ebi_biotype=protein_coding
+AaegL5_1	194948263	194953805	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000116;description=Anaphase-promoting complex subunit 4 [Source:UniProtKB/TrEMBL%3BAcc:Q17Q34];ebi_biotype=protein_coding
+AaegL5_1	195093306	195095524	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000119;description=AMP dependent coa ligase;ebi_biotype=protein_coding
+AaegL5_1	199745357	199781608	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009317;description=rab11;ebi_biotype=protein_coding
+AaegL5_1	200253353	200270273	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005811;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	201231804	201243534	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005802;description=structural maintenance of chromosomes 1 smc1;ebi_biotype=protein_coding
+AaegL5_1	201639970	201666309	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019781;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	203642888	203711508	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018307;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	204206626	204218560	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023327;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	206690187	206691557	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009918;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	206701418	206713784	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009913;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_1	206727314	206733087	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009908;description=glutamyl-tRNA(Gln) amidotransferase%2C subunit-B%2C putative;ebi_biotype=protein_coding
+AaegL5_1	213284397	213297379	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012438;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	216499684	216501087	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015338;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	217146147	217304901	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021555;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	217890400	217895599	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010885;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	217995365	217998673	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010895;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	220406480	220407837	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014045;description=allantoicase;ebi_biotype=protein_coding
+AaegL5_1	220451796	220475809	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014046;description=sex-determining protein fem-1;ebi_biotype=protein_coding
+AaegL5_1	222591230	222664299	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009634;description=steroid dehydrogenase;ebi_biotype=protein_coding
+AaegL5_1	222741944	222796114	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009636;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	226259363	226467135	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002539;description=fimbrin/plastin;ebi_biotype=protein_coding
+AaegL5_1	227411156	227506309	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002565;description=titin;ebi_biotype=protein_coding
+AaegL5_1	230262525	230271716	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003495;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	234083373	234123309	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009110;description=smad anchor for receptor activation;ebi_biotype=protein_coding
+AaegL5_1	235877514	236037095	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004399;Name=GPRFSH;description=GPCR Glycoprotein Hormone Family;ebi_biotype=protein_coding
+AaegL5_1	237285960	237616326	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004389;description=mannosidase alpha class 2a;ebi_biotype=protein_coding
+AaegL5_1	237622926	237641741	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013739;description=electron transport oxidoreductase;ebi_biotype=protein_coding
+AaegL5_1	238027816	238300128	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011522;description=MRAS2%2C putative;ebi_biotype=protein_coding
+AaegL5_1	241889477	241910196	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005552;description=succinyl-CoA synthetase beta chain;ebi_biotype=protein_coding
+AaegL5_1	241962457	241972916	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017481;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	242526995	242539376	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012822;description=Misexpression suppressor of KSR%2C putative;ebi_biotype=protein_coding
+AaegL5_1	243728948	243737005	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002137;description=transcriptional adaptor 2 (ada2);ebi_biotype=protein_coding
+AaegL5_1	246236380	246238063	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005413;Name=mRpS11;description=mitochondrial ribosomal protein%2C S11%2C putative;ebi_biotype=protein_coding
+AaegL5_1	246461413	246475490	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005402;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	247947180	247966533	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003769;description=Methionine aminopeptidase [Source:UniProtKB/TrEMBL%3BAcc:Q0IFY6];ebi_biotype=protein_coding
+AaegL5_1	248063659	248074889	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003762;description=Protoporphyrinogen IX oxidase%2C putative;ebi_biotype=protein_coding
+AaegL5_1	248976656	248977346	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003764;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	250617945	250630430	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003908;description=nuclear pore complex protein nup107;ebi_biotype=protein_coding
+AaegL5_1	252522010	252523193	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003917;description=mitochondrial inner membrane protease subunit;ebi_biotype=protein_coding
+AaegL5_1	255264991	255360409	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002879;description=heterogeneous nuclear ribonucleoprotein r;ebi_biotype=protein_coding
+AaegL5_1	256112074	256989802	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002859;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	260700915	260702898	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017409;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	265098780	265103307	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013746;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	265893336	265965934	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006113;description=cystinosin;ebi_biotype=protein_coding
+AaegL5_1	267924114	267959369	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007211;description=Rab-GAP TBC domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FFS5];ebi_biotype=protein_coding
+AaegL5_1	268447259	268448414	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010412;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	270390344	270407132	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012059;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	270556178	270779311	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012062;description=Na+/K+ ATPase alpha subunit;ebi_biotype=protein_coding
+AaegL5_1	271328494	271330383	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014893;Name=CYP6BB2;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_1	271375695	271377569	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017061;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	271598136	271615601	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012489;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	271623586	271653180	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018056;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	278753542	278830714	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL026825;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	281269427	281292749	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018255;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	283060939	283097610	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007993;Name=CLIPB27;description=Clip-Domain Serine Protease  family B.;ebi_biotype=protein_coding
+AaegL5_1	284553218	284556675	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012394;description=glucosidase ii beta subunit;ebi_biotype=protein_coding
+AaegL5_1	285251769	285283471	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014913;description=Pyruvate kinase [Source:UniProtKB/TrEMBL%3BAcc:Q16F38];ebi_biotype=protein_coding
+AaegL5_1	285348442	285364940	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012567;description=synaptic vesicle protein;ebi_biotype=protein_coding
+AaegL5_1	286037018	286245436	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014965;description=nova;ebi_biotype=protein_coding
+AaegL5_1	286326224	286447671	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011934;Name=GSTZ1;description=glutathione transferase;ebi_biotype=protein_coding
+AaegL5_1	288372141	288386270	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004891;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	290721403	290736577	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017244;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	290815880	290817840	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003238;description=Palmitoyltransferase [Source:UniProtKB/TrEMBL%3BAcc:Q16L42];ebi_biotype=protein_coding
+AaegL5_1	291136642	291138992	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019557;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	295000220	295002302	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005070;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	298323564	298339135	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005074;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	298347352	298361892	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005047;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	299200759	299218424	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001091;description=Malic enzyme [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EXR8];ebi_biotype=protein_coding
+AaegL5_1	301236088	301237254	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010591;Name=GSTD6;description=glutathione transferase;ebi_biotype=protein_coding
+AaegL5_1	301267614	301291868	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010596;description=n-acetylgalactosaminyltransferase;ebi_biotype=protein_coding
+AaegL5_1	301331795	301353029	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010584;description=vesicular mannose-binding lectin;ebi_biotype=protein_coding
+AaegL5_1	301838384	301854847	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004620;description=sorting nexin;ebi_biotype=protein_coding
+AaegL5_1	302449786	302453061	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007595;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	303556071	303557665	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023211;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	305230647	305280816	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002791;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_1	308065596	308068436	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009919;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	331577	339168	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005177;description=adenylate cyclase;ebi_biotype=protein_coding
+AaegL5_2	346271	365254	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005213;description=Putative amino acid transporter [Source:UniProtKB/TrEMBL%3BAcc:A0A0P6J1D0];ebi_biotype=protein_coding
+AaegL5_2	425539	427570	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005191;description=cdk10/11;ebi_biotype=protein_coding
+AaegL5_2	430215	434851	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005180;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	3825899	3900032	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009088;description=liquid facets;ebi_biotype=protein_coding
+AaegL5_2	5928631	6002509	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008210;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	6203163	6312899	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017462;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	6520240	6718326	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL015593;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	6799064	6889674	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017029;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	7634716	7762768	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005985;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	9869547	10032478	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000984;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	12663356	12664931	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021595;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	14211824	14215716	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002721;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	15027633	15048245	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003462;description=aromatic amino acid decarboxylase;ebi_biotype=protein_coding
+AaegL5_2	15560537	15564039	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020104;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	16233761	16248862	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012731;Name=Adk2;description=Adenylate kinase 2%2C mitochondrial (AK 2)(EC 2.7.4.3)(ATP-AMP transphosphorylase 2);ebi_biotype=protein_coding
+AaegL5_2	17450303	17453569	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009303;description=regulator of chromosome condensation;ebi_biotype=protein_coding
+AaegL5_2	17663737	18065268	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009294;description=phosphatidylinositol 4-kinase;ebi_biotype=protein_coding
+AaegL5_2	18081575	18099187	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009287;description=ran;ebi_biotype=protein_coding
+AaegL5_2	18765681	18767023	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012660;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	19186400	19189036	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008491;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	19424645	19560071	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008471;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	21164058	21193014	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001562;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	23394986	23397887	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001557;description=mucolipin;ebi_biotype=protein_coding
+AaegL5_2	24678446	24679807	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006883;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	25615427	25616580	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006887;description=mRNA turnover protein 4 mrt4;ebi_biotype=protein_coding
+AaegL5_2	26308414	26364840	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010524;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	27238811	27252831	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012157;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	27488373	27490530	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012156;description=n6-adenosine-methyltransferase ime4;ebi_biotype=protein_coding
+AaegL5_2	28763442	28774422	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010330;description=Succinate dehydrogenase [ubiquinone] iron-sulfur subunit%2C mitochondrial [Source:UniProtKB/TrEMBL%3BAcc:Q16TA7];ebi_biotype=protein_coding
+AaegL5_2	29236054	29238998	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013558;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	29355148	29366496	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013548;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	31098518	31101246	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022692;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	31291597	31300021	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002267;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	33873226	33912537	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004586;description=Histone deacetylase [Source:UniProtKB/TrEMBL%3BAcc:Q17CF0];ebi_biotype=protein_coding
+AaegL5_2	35395046	35396616	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010107;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	36419056	36429408	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007988;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	36455201	36488481	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007994;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	37172807	37174051	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011462;description=Transcription initiation factor IIE subunit beta [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FTA4];ebi_biotype=protein_coding
+AaegL5_2	37970053	37971023	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011192;description=vacuolar sorting protein vps29;ebi_biotype=protein_coding
+AaegL5_2	37981743	38486852	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001734;description=bric-a-brac;ebi_biotype=protein_coding
+AaegL5_2	44199264	45152842	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019939;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	45225080	45233086	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014576;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	45674247	45677732	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001412;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	45714601	45744519	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001397;description=ribonuclease;ebi_biotype=protein_coding
+AaegL5_2	46371725	46790208	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017300;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	49078207	49079081	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006221;description=o-sialoglycoprotein endopeptidase;ebi_biotype=protein_coding
+AaegL5_2	52089447	52090113	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000722;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	57005098	57011470	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001341;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	57127033	57154993	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001355;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	57863305	57947756	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019885;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	58453276	58514544	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006552;description=WD-repeat protein;ebi_biotype=protein_coding
+AaegL5_2	59326593	59338524	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006564;description=mitochondrial RNA splicing protein;ebi_biotype=protein_coding
+AaegL5_2	59350148	59350879	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006566;description=suppressor of ty;ebi_biotype=protein_coding
+AaegL5_2	59363556	59364496	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006557;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	59375949	59384548	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006551;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	59389403	59403153	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006553;description=Protein disulfide isomerase%2C putative [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FE21];ebi_biotype=protein_coding
+AaegL5_2	61211737	61609649	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001244;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	62205359	62222814	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013267;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	62397079	62951840	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018699;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	63191084	63336480	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011051;description=porcupine;ebi_biotype=protein_coding
+AaegL5_2	66153690	66183754	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005884;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	68615477	68629091	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009733;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	68924949	68925590	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009734;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	69084202	69115363	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019780;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	69123072	69146492	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005276;description=target of myb1 (tom1);ebi_biotype=protein_coding
+AaegL5_2	72302067	72362715	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004905;description=monocarboxylate transporter;ebi_biotype=protein_coding
+AaegL5_2	74407292	74416842	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000257;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	74769998	74810233	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000281;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	74990330	75332133	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000288;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	76165411	76166280	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012511;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	76893006	76922764	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007208;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	78222198	78233097	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002465;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	78706387	78731922	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019644;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	78710456	78712306	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023280;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	83711480	83730291	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006733;description=FAD NADPH dehydrogenase;ebi_biotype=protein_coding
+AaegL5_2	83784905	83817535	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006736;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	83982067	83992092	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006752;description=Misexpression suppressor of ras%2C putative;ebi_biotype=protein_coding
+AaegL5_2	84145954	84597403	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019478;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	84775167	84779235	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006741;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	85121436	85146605	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006717;description=ABC transporter;ebi_biotype=protein_coding
+AaegL5_2	90943807	91043615	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010506;description=GTP-binding  protein alpha subunit%2C gna;ebi_biotype=protein_coding
+AaegL5_2	91050292	91051281	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010505;description=ribulose-5-phosphate-3-epimerase;ebi_biotype=protein_coding
+AaegL5_2	91060530	91132077	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010508;description=vacuolar protein sorting-associated protein (vps13);ebi_biotype=protein_coding
+AaegL5_2	92974060	92990493	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009968;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	94093796	94103717	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012698;description=ATP-binding cassette sub-family A member 3%2C putative;ebi_biotype=protein_coding
+AaegL5_2	95973553	95975536	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011510;description=multiple inositol polyphosphate phosphatase;ebi_biotype=protein_coding
+AaegL5_2	96179334	96182678	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002753;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	96323443	96342311	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002751;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	96560356	96578763	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013903;description=gamma-tubulin complex component 2 (gcp-2);ebi_biotype=protein_coding
+AaegL5_2	98829777	99035629	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008514;description=ubiquitin conjugating enzyme E2%2C putative;ebi_biotype=protein_coding
+AaegL5_2	100764271	100787199	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021196;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	100897256	100925527	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007731;description=Pep12p%2C putative;ebi_biotype=protein_coding
+AaegL5_2	101526559	101596635	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011168;description=GTP-binding protein (i) alpha subunit%2C gnai;ebi_biotype=protein_coding
+AaegL5_2	101629469	101678485	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009027;Name=Med24;description=Mediator of RNA polymerase II transcription subunit 24 (Med24);ebi_biotype=protein_coding
+AaegL5_2	101762986	101808893	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001041;description=guanine nucleotide-binding protein beta 3 (g protein beta3);ebi_biotype=protein_coding
+AaegL5_2	101920299	101948724	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013995;Name=APG18B;description=autophagy related gene;ebi_biotype=protein_coding
+AaegL5_2	103685603	103739846	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021970;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	103978339	103980942	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012969;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	110500422	110528688	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014851;description=mediator complex subunit rgr-1;ebi_biotype=protein_coding
+AaegL5_2	111157560	111167582	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013689;description=neuronal calcium sensor%2C putative;ebi_biotype=protein_coding
+AaegL5_2	111337217	111368060	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014744;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	111396949	111525967	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019895;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	111697582	111698950	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009445;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	112047363	112107059	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010581;description=zinc finger protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	115220833	115241792	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014960;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	115326610	115343328	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004854;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	115450716	115460454	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004843;description=actin;ebi_biotype=protein_coding
+AaegL5_2	115636723	115637680	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004860;description=acireductone dioxygenase;ebi_biotype=protein_coding
+AaegL5_2	116529105	116548572	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022427;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	118936688	118946871	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014452;description=acyl-coa dehydrogenase;ebi_biotype=protein_coding
+AaegL5_2	119901497	119902874	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002050;description=Nitric oxide synthase-interacting protein homolog [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F0L5];ebi_biotype=protein_coding
+AaegL5_2	119971164	119981828	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002083;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_2	121013992	121014860	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013472;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	121051180	121054382	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014099;description=valyl-tRNA synthetase;ebi_biotype=protein_coding
+AaegL5_2	121123052	121139509	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014098;description=polycomb protein;ebi_biotype=protein_coding
+AaegL5_2	124242755	124284005	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000314;description=malate dehydrogenase;ebi_biotype=protein_coding
+AaegL5_2	124310170	124370720	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000343;description=serine/threonine-protein kinase vrk;ebi_biotype=protein_coding
+AaegL5_2	124947774	124974967	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012973;description=uracil phosphoribosyltransferase;ebi_biotype=protein_coding
+AaegL5_2	126186496	126237103	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003594;description=kinectin%2C putative;ebi_biotype=protein_coding
+AaegL5_2	127193821	127230680	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008878;description=diacylglycerol o-acyltransferase;ebi_biotype=protein_coding
+AaegL5_2	127230325	127250994	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008879;description=Kynurenine 3-monooxygenase (EC 1.14.13.9)(Kynurenine 3-hydroxylase);ebi_biotype=protein_coding
+AaegL5_2	128527683	129293399	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014999;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	129568023	129578376	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007084;description=Methyltransferase-like protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FFL5];ebi_biotype=protein_coding
+AaegL5_2	131926030	131954349	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021339;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	134575661	134607885	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL023413;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	136132576	136139562	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010663;description=cleavage and polyadenylation specificity factor;ebi_biotype=protein_coding
+AaegL5_2	143619890	143647609	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011465;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	143656487	143658719	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012202;description=transcription initiation factor IIE%2C alpha subunit;ebi_biotype=protein_coding
+AaegL5_2	144962936	144964490	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012280;description=pef protein with a long n-terminal hydrophobic domain (peflin);ebi_biotype=protein_coding
+AaegL5_2	144980956	144993617	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022891;description=Na-K-Cl cotransporter [Source:UniProtKB/TrEMBL%3BAcc:Q6XL80];ebi_biotype=protein_coding
+AaegL5_2	145632920	145652638	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004790;description=ubiquitin-protein ligase;ebi_biotype=protein_coding
+AaegL5_2	146336184	146349802	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004168;description=syntaxin;ebi_biotype=protein_coding
+AaegL5_2	150563924	151031742	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010190;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	151315184	151316140	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010970;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	152998316	153022969	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022720;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	155418268	155749197	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013445;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	156013901	156109556	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013441;Name=TOLL9A;description=Toll-like receptor;ebi_biotype=protein_coding
+AaegL5_2	157535258	157536167	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014645;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	159596884	159636498	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022867;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	160646055	160646895	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009051;Name=TPX5;description=Thioredoxin Peroxidase.;ebi_biotype=protein_coding
+AaegL5_2	165331341	165335637	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015018;description=toll;ebi_biotype=protein_coding
+AaegL5_2	166739657	166745731	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001765;description=RING-type domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EZP6];ebi_biotype=protein_coding
+AaegL5_2	166790647	166793732	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001756;description=anaphase-promoting complex subunit;ebi_biotype=protein_coding
+AaegL5_2	169199201	169247069	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009606;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	169738938	169741027	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009611;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	169936890	169937646	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009608;Name=mRpS16;description=28S ribosomal protein S16%2C mitochondrial;ebi_biotype=protein_coding
+AaegL5_2	172939900	172940835	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005127;description=ribonuclease UK114%2C putative;ebi_biotype=protein_coding
+AaegL5_2	174272402	174313483	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020071;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	176198502	176213202	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010698;description=importin beta-4;ebi_biotype=protein_coding
+AaegL5_2	176270726	176295482	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL015298;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	177149856	177189036	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011038;description=integrin alpha-ps;ebi_biotype=protein_coding
+AaegL5_2	178923848	178952986	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017526;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	179117447	179133644	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017075;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	179154051	179160275	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013119;description=charged multivesicular body protein;ebi_biotype=protein_coding
+AaegL5_2	179333947	179337131	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013121;description=zeta-coat protein;ebi_biotype=protein_coding
+AaegL5_2	180489700	180509501	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013163;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	182283495	182322514	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015070;Name=mALP;description=alkaline phosphatase;ebi_biotype=protein_coding
+AaegL5_2	182734526	182765508	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010378;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	182779611	182781579	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010366;description=glucosyl/glucuronosyl transferases;ebi_biotype=protein_coding
+AaegL5_2	182803749	182814240	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010386;description=glucosyl/glucuronosyl transferases;ebi_biotype=protein_coding
+AaegL5_2	182838574	182860074	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010368;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	184431862	184433353	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001863;description=zinc carboxypeptidase;ebi_biotype=protein_coding
+AaegL5_2	184465657	184482992	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000081;description=peroxisome assembly factor-2 (peroxisomal-type ATPase 1);ebi_biotype=protein_coding
+AaegL5_2	185970824	185987604	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012507;description=prefoldin%2C subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_2	186569196	186590397	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012019;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	187400435	187957674	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023512;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	187985879	188041635	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012187;description=lethal(3)malignant brain tumor;ebi_biotype=protein_coding
+AaegL5_2	188453925	188462344	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013140;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	188529855	188536552	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013142;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	190247944	190259612	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021878;description=Zinc finger protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FUN1];ebi_biotype=protein_coding
+AaegL5_2	191777675	191778682	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009833;Name=mRpL46;description=mitochondrial ribosomal protein%2C L46%2C putative;ebi_biotype=protein_coding
+AaegL5_2	193628320	193690100	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001940;description=Phosphatidate cytidylyltransferase (Fragment) [Source:UniProtKB/TrEMBL%3BAcc:Q1HRB7];ebi_biotype=protein_coding
+AaegL5_2	193912861	194399611	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001925;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	194674052	194679361	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011212;description=nuclear transcription factor%2C x-box binding 1 (nfx1);ebi_biotype=protein_coding
+AaegL5_2	194707748	194830279	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL026220;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	195509133	195509961	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011939;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	197394384	197396749	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003735;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	197421404	197464420	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003713;description=leucine-rich transmembrane protein;ebi_biotype=protein_coding
+AaegL5_2	197933870	197937373	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003726;description=ANK_REP_REGION domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F5J5];ebi_biotype=protein_coding
+AaegL5_2	200625793	200626761	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022068;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	200738110	200746938	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011667;description=cir;ebi_biotype=protein_coding
+AaegL5_2	203826765	203847281	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012162;description=aldehyde dehydrogenase;ebi_biotype=protein_coding
+AaegL5_2	204197487	204214644	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012171;description=RNA recognition motif protein split ends;ebi_biotype=protein_coding
+AaegL5_2	205016201	205120082	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001389;description=Palmitoyltransferase [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EYN0];ebi_biotype=protein_coding
+AaegL5_2	205532739	205536180	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019669;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	206315043	206378155	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001372;description=sentrin/sumo-specific protease senp7;ebi_biotype=protein_coding
+AaegL5_2	208761957	208788980	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003555;description=ribosome biogenesis protein;ebi_biotype=protein_coding
+AaegL5_2	209353597	209381789	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018237;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	212630109	212634274	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003055;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	212952569	212971499	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003077;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	213039707	213370562	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003063;description=Semaphorin [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F3R5];ebi_biotype=protein_coding
+AaegL5_2	213474225	213483046	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017085;Name=GSTO1;description=glutathione transferase;ebi_biotype=protein_coding
+AaegL5_2	214413195	214416865	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002371;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	214566732	214765147	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002404;description=receptor protein tyrosine kinase;ebi_biotype=protein_coding
+AaegL5_2	215266555	215342278	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008645;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	215460231	215461783	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019868;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	216410967	216415787	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003492;description=ribonuclease%2C putative;ebi_biotype=protein_coding
+AaegL5_2	219146918	219168373	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012475;description=jnk/sapk-associated protein;ebi_biotype=protein_coding
+AaegL5_2	219440107	219515737	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007773;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	219839795	219939321	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007767;description=Protein kintoun;ebi_biotype=protein_coding
+AaegL5_2	220362753	220438443	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006267;description=ras-related protein Rab-3C%2C putative;ebi_biotype=protein_coding
+AaegL5_2	222434699	222461096	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020489;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	222841013	222864509	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014958;description=galactokinase;ebi_biotype=protein_coding
+AaegL5_2	224747884	224749757	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010118;description=kelch repeat protein;ebi_biotype=protein_coding
+AaegL5_2	225844289	225859376	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014596;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	226626980	226695466	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011274;description=1-phosphatidylinositol-4-phosphate 5-kinase%2C putative;ebi_biotype=protein_coding
+AaegL5_2	226974743	227013788	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000248;description=GTP binding protein;ebi_biotype=protein_coding
+AaegL5_2	227025655	227068311	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000221;description=mediator complex%2C subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_2	227176604	227185790	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000226;description=J domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EV88];ebi_biotype=protein_coding
+AaegL5_2	229870944	230169887	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018152;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	230378914	230426536	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008064;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	230541930	230612829	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008067;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	231867674	231887841	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011103;description=centromere/kinetochore protein zw10;ebi_biotype=protein_coding
+AaegL5_2	232974334	233021323	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021579;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	233232109	233237078	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007366;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	234793804	234795635	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008263;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	236530880	236533466	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006476;description=symbol%2C putative;ebi_biotype=protein_coding
+AaegL5_2	238439212	238450821	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014345;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	238522856	238524448	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014348;Name=CASPS8;description=caspase (short);ebi_biotype=protein_coding
+AaegL5_2	241191128	241251217	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008844;description=calcium-binding protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	241328304	241338120	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008848;description=ATP synthase gamma subunit;ebi_biotype=protein_coding
+AaegL5_2	242324168	242334027	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006238;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	243197616	243363506	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002646;description=cytohesin 1%2C 2%2C 3%2C 4 (guanine nucleotide-exchange protein);ebi_biotype=protein_coding
+AaegL5_2	245966742	245970643	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023511;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	246241293	246254031	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013536;description=ubiquitin (ribosomal protein L40);ebi_biotype=protein_coding
+AaegL5_2	246405739	246428457	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009423;Name=SCRBQ2;description=Class B Scavenger Receptor (CD36 domain).;ebi_biotype=protein_coding
+AaegL5_2	251847015	251868445	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012904;description=rab gdp-dissociation inhibitor;ebi_biotype=protein_coding
+AaegL5_2	253514721	253527674	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013071;description=ribophorin;ebi_biotype=protein_coding
+AaegL5_2	256864496	256865744	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003515;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	257488033	257496050	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005388;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	257567831	257573531	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL027436;description=Putative splicing factor rnps1 sr protein [Source:UniProtKB/TrEMBL%3BAcc:A0A0P6IYU4];ebi_biotype=protein_coding
+AaegL5_2	260865080	260939467	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004936;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	262109346	262142939	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001495;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	262274156	262280160	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001501;description=anamorsin homolog (Fe-S cluster assembly protein DRE2 homolog);ebi_biotype=protein_coding
+AaegL5_2	262392742	262404045	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001505;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	262492741	262554731	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018240;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	262920336	262929263	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017082;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	264689246	264691868	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010138;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	264726741	264731179	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010135;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	268444448	268453466	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009268;description=pla2g4b;ebi_biotype=protein_coding
+AaegL5_2	268586066	268609760	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009262;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	270338356	270360845	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009068;description=dynamin;ebi_biotype=protein_coding
+AaegL5_2	271829864	271830801	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007821;description=signalosome%2C subunit 2%2C CSN8%2C putative;ebi_biotype=protein_coding
+AaegL5_2	274170657	274178770	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008323;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	274316669	274336484	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001850;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	276687583	276704057	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001856;description=adenosine kinase;ebi_biotype=protein_coding
+AaegL5_2	276721246	276844070	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001875;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	277647301	277648382	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013775;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	278309468	279065747	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011069;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	279209799	279224857	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010637;description=zinc finger protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	279291530	279336042	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010635;description=Zinc finger protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FQY9];ebi_biotype=protein_coding
+AaegL5_2	281197282	281217615	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004995;description=Caspase-activated nuclease%2C putative [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F990];ebi_biotype=protein_coding
+AaegL5_2	282192396	282239038	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004980;description=Ubiquitinyl hydrolase 1 [Source:UniProtKB/TrEMBL%3BAcc:Q17BE1];ebi_biotype=protein_coding
+AaegL5_2	285421878	285507067	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018348;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	288714196	288715263	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004744;description=ccaat-binding transcription factor subunit a;ebi_biotype=protein_coding
+AaegL5_2	289065501	289107859	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004774;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	291320154	291345729	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007444;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	291550700	291585468	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007447;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	293048305	293077778	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004294;description=dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase;ebi_biotype=protein_coding
+AaegL5_2	300162685	300311222	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019827;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	300456430	300457736	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001642;description=6-pyruvoyltetrahydropterin synthase%2C putative [Source:UniProtKB/TrEMBL%3BAcc:Q17KM3];ebi_biotype=protein_coding
+AaegL5_2	301715886	301717089	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011988;description=tRNA selenocysteine associated protein (secp43);ebi_biotype=protein_coding
+AaegL5_2	303085551	303099599	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002386;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	303124221	303152087	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002369;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	303412384	303979551	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL023902;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	304642161	304684766	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002374;description=taxilin;ebi_biotype=protein_coding
+AaegL5_2	304686513	304736391	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010765;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	305933125	305934380	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013935;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	307251250	307262391	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001177;description=signal recognition particle%2C 14kD%2C putative;ebi_biotype=protein_coding
+AaegL5_2	307369649	307382855	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001171;description=tRNA-dihydrouridine synthase;ebi_biotype=protein_coding
+AaegL5_2	307819912	307857749	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001176;description=s-adenosylmethionine decarboxylase;ebi_biotype=protein_coding
+AaegL5_2	309466655	309535469	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001189;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	310335969	310434970	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004534;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	312412111	312415772	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007275;description=aldo-keto reductase;ebi_biotype=protein_coding
+AaegL5_2	312437582	312450955	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007273;description=peptidyl-prolyl cis-trans isomerase e%2C ppie;ebi_biotype=protein_coding
+AaegL5_2	312451215	312452950	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013950;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_2	314483457	314498433	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010538;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	314603739	314647358	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010533;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	316639442	316647828	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003674;description=MYND-type domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F5C5];ebi_biotype=protein_coding
+AaegL5_2	316668097	316670023	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003657;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	316986177	316988691	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003682;description=tropomyosin%2C putative;ebi_biotype=protein_coding
+AaegL5_2	317109585	317140895	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003666;description=leukotriene a-4 hydrolase;ebi_biotype=protein_coding
+AaegL5_2	321102237	321133494	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008693;description=Cation efflux protein/ zinc transporter [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FKH5];ebi_biotype=protein_coding
+AaegL5_2	321325039	321399136	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008696;description=smad;ebi_biotype=protein_coding
+AaegL5_2	321446077	321478829	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021798;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	321487666	321495934	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013011;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	322656172	322658362	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020735;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	322843516	322921184	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014215;description=nicotinate phosphoribosyltransferase;ebi_biotype=protein_coding
+AaegL5_2	324255496	324256912	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013639;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	325788595	325950950	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006675;description=RNA-binding protein%2C putative [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FEF6];ebi_biotype=protein_coding
+AaegL5_2	326303810	326305868	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006666;description=cmp-sialic acid transporter;ebi_biotype=protein_coding
+AaegL5_2	326514053	326527475	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006668;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	326684129	326736056	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014732;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	326982054	327090848	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022162;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	334549018	334551793	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002388;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	335016758	335018250	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012227;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	336662721	336697818	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020486;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	336735576	336772099	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021232;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	337725050	337726719	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015007;description=Proteasome subunit alpha type [Source:UniProtKB/TrEMBL%3BAcc:Q16EV7];ebi_biotype=protein_coding
+AaegL5_2	337758798	337775469	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013098;description=coatomer;ebi_biotype=protein_coding
+AaegL5_2	337792888	337794381	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015003;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	340356823	340587745	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006899;description=DNA-J/hsp40;ebi_biotype=protein_coding
+AaegL5_2	340381697	340382813	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006902;description=serine-type enodpeptidase%2C;ebi_biotype=protein_coding
+AaegL5_2	343131519	343147753	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007312;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	345285720	345576061	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022309;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	345728215	345823316	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019714;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	349302826	349670334	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019605;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	349760054	349792761	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013275;description=importin beta-1;ebi_biotype=protein_coding
+AaegL5_2	351064033	351078244	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014534;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	351082729	351094669	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014533;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	352678174	352678946	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013700;description=DNA-directed RNA polymerase II 13.3 kDa polypeptide;ebi_biotype=protein_coding
+AaegL5_2	354607308	354769022	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019599;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	356309155	356352442	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002055;description=neuroendocrine protein 7b2;ebi_biotype=protein_coding
+AaegL5_2	356655409	356663631	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002080;description=septin interacting protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	356940246	356944315	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008434;description=ER lumen protein retaining receptor;ebi_biotype=protein_coding
+AaegL5_2	360170925	360201630	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007187;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	360877104	360918928	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005970;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	362882730	362925987	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008590;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	362973564	362999379	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008610;description=myosin vii;ebi_biotype=protein_coding
+AaegL5_2	365936852	365941970	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012899;description=meiotic coiled-coil protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	366711105	366722759	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003269;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	367176856	367188238	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003245;Name=IKK1;description=IMD pathway signalling  I-Kappa-B Kinase 1 (IKK1  IKK-beta). (ird5 orthologue  immune response deficient 5);ebi_biotype=protein_coding
+AaegL5_2	367226431	367230474	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003244;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	369722153	369724479	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000332;description=Mitochondrial inner membrane protease ATP23 [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EVL9];ebi_biotype=protein_coding
+AaegL5_2	370178633	370321306	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005347;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	374808209	374858347	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001803;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	375068464	375070394	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001807;Name=CYP9M9;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_2	375256196	375257877	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001800;description=hsp70 binding protein;ebi_biotype=protein_coding
+AaegL5_2	375963191	376215599	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001808;Name=Oatp206;description=organic anion transporter Oatp206;ebi_biotype=protein_coding
+AaegL5_2	376433345	376458113	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001795;description=orfY%2C putative;ebi_biotype=protein_coding
+AaegL5_2	378793432	379094539	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004731;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	381858262	381923118	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005643;description=guanine nucleotide exchange factor;ebi_biotype=protein_coding
+AaegL5_2	381960411	382013030	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005657;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	386652727	386657068	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004325;Name=RpL5;description=60S ribosomal protein L5 [Source:UniProtKB/Swiss-Prot%3BAcc:Q1HQU2];ebi_biotype=protein_coding
+AaegL5_2	388219688	388548065	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004305;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	389050793	389053485	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013171;Name=HPX2;description=heme peroxidase;ebi_biotype=protein_coding
+AaegL5_2	389479425	389481463	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001893;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	389659113	389810433	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001915;description=tyrosine protein kinase;ebi_biotype=protein_coding
+AaegL5_2	395111647	395130503	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008500;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_2	395151212	395152118	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008492;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	398836965	398876131	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006966;description=vitellogenin%2C putative;ebi_biotype=protein_coding
+AaegL5_2	399099982	399178259	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006978;description=protein-glutamine gamma-glutamyltransferase;ebi_biotype=protein_coding
+AaegL5_2	400959196	400961135	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003356;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	402392108	402556057	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015255;description=phosphatidylinositol-4-phosphate 5-kinase type i;ebi_biotype=protein_coding
+AaegL5_2	403761771	403767992	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010345;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	404064551	404078138	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010336;description=Zinc phosphodiesterase [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FPY6];ebi_biotype=protein_coding
+AaegL5_2	404119319	404132496	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010340;description=serine/arginine rich splicing factor;ebi_biotype=protein_coding
+AaegL5_2	411478133	411489246	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001218;Name=Aats-ala;description=alanyl-tRNA synthetase;ebi_biotype=protein_coding
+AaegL5_2	413247702	413264402	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001201;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	413679493	413682480	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006404;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	414435530	414637024	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019461;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	415472022	415474865	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008336;description=snail protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	417554938	417558229	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010681;description=sodium/chloride dependent neurotransmitter transporter;ebi_biotype=protein_coding
+AaegL5_2	419167438	419169634	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009132;Name=CYP6Y3;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_2	421638901	422079378	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007245;description=WD40 protein;ebi_biotype=protein_coding
+AaegL5_2	422336449	422339447	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007229;description=Derlin [Source:UniProtKB/TrEMBL%3BAcc:Q172Y9];ebi_biotype=protein_coding
+AaegL5_2	423992666	424001455	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002031;Name=CYP12F7;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_2	426086787	426087923	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002034;description=protein serine/threonine kinase%2C putative;ebi_biotype=protein_coding
+AaegL5_2	426390704	426399364	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002010;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	427623402	427658193	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019482;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	429374056	429377669	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002195;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	429549267	429563571	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002186;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	429724837	429850936	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019793;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	430786040	430787154	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002179;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	437113864	437236696	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019523;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	437306450	437312948	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005728;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	437498227	437629542	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005734;description=leucine-rich transmembrane protein;ebi_biotype=protein_coding
+AaegL5_2	439462806	439464572	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006445;description=Phosphatidylinositol-glycan biosynthesis class W protein [Source:UniProtKB/TrEMBL%3BAcc:Q176D1];ebi_biotype=protein_coding
+AaegL5_2	439474859	439488049	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006450;description=integral membrane protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	439687038	439690111	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006452;description=n-acetylgalactosaminyltransferase;ebi_biotype=protein_coding
+AaegL5_2	441822775	441836769	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001724;Name=GPRNNB3;description=GPCR Orphan/Putative Class B Family;ebi_biotype=protein_coding
+AaegL5_2	441860351	441864268	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001719;description=ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_2	444171992	444187284	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005019;description=lactosylceramide 4-alpha-galactosyltransferase (alpha- 1%2C4-galactosyltransferase);ebi_biotype=protein_coding
+AaegL5_2	444230693	444232435	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005040;description=E3 ubiquitin-protein ligase [Source:UniProtKB/TrEMBL%3BAcc:Q17BB8];ebi_biotype=protein_coding
+AaegL5_2	444424921	444443315	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005038;description=ubiquitin-conjugating enzyme E2;ebi_biotype=protein_coding
+AaegL5_2	444458769	444468259	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005016;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	445037807	445059189	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005045;description=ATP-dependent bile acid permease;ebi_biotype=protein_coding
+AaegL5_2	446064345	446077917	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015293;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	446378500	446393686	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010491;Name=FKBP12;description=fk506-binding protein;ebi_biotype=protein_coding
+AaegL5_2	446498310	446514610	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010494;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	447762141	447763227	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001301;description=CRAL-TRIO domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EYD7];ebi_biotype=protein_coding
+AaegL5_2	449637733	449667128	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021608;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	453116297	453117665	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004486;description=valacyclovir hydrolase;ebi_biotype=protein_coding
+AaegL5_2	453316604	453332593	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004497;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	454806348	454807901	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008623;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	455430513	455514073	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019463;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	455591456	455609699	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008632;description=ABC transporter;ebi_biotype=protein_coding
+AaegL5_2	458644181	458719085	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000682;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	459637016	459674591	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000685;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	460473078	460501501	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007862;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	460626628	460691578	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007865;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	462601937	462606861	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006609;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	462713712	462715113	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006628;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	462884608	462886033	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006607;description=juvenile hormone-inducible protein%2C putative;ebi_biotype=protein_coding
+AaegL5_2	464068350	464087784	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020287;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	464094105	464106307	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006614;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_2	464165615	464167584	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006611;description=ER membrane protein complex subunit 3 [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FE22];ebi_biotype=protein_coding
+AaegL5_2	464716204	464723988	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014497;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	465788004	465796483	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002694;description=predicted G-protein coupled receptor (GPCR);ebi_biotype=protein_coding
+AaegL5_2	468627647	468634998	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006516;description=vacuolar ATP synthase subunit h;ebi_biotype=protein_coding
+AaegL5_2	468689859	468690603	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006509;description=ATP synthase subunit [Source:UniProtKB/TrEMBL%3BAcc:Q1HR38];ebi_biotype=protein_coding
+AaegL5_2	470268294	470277570	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007702;description=chaperonin;ebi_biotype=protein_coding
+AaegL5_2	470320145	470328474	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007699;Name=RpL9;description=60S ribosomal protein L9 [Source:UniProtKB/TrEMBL%3BAcc:Q1HR72];ebi_biotype=protein_coding
+AaegL5_2	470920850	471148298	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022793;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	472311527	472312775	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006010;description=Vesicle transport protein [Source:UniProtKB/TrEMBL%3BAcc:Q177W9];ebi_biotype=protein_coding
+AaegL5_2	472622975	472624070	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006011;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_2	473322228	473361053	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004469;description=adaptin%2C alpha/gamma/epsilon;ebi_biotype=protein_coding
+AaegL5_2	474240523	474250653	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007910;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	55094	135655	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL023046;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	1679161	1679864	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001109;description=Glutaredoxin [Source:UniProtKB/TrEMBL%3BAcc:Q17M81];ebi_biotype=protein_coding
+AaegL5_3	1707808	1792537	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001128;description=AMP dependent coa ligase;ebi_biotype=protein_coding
+AaegL5_3	2752144	2813256	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006321;description=1-acylglycerol-3-phosphate acyltransferase [Source:UniProtKB/TrEMBL%3BAcc:Q176M5];ebi_biotype=protein_coding
+AaegL5_3	3564102	3586353	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011780;description=DNA mismatch repair protein muts;ebi_biotype=protein_coding
+AaegL5_3	3704593	3706180	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011781;description=perixosomal biogenesis factor;ebi_biotype=protein_coding
+AaegL5_3	3753529	3754582	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011782;description=GPN-loop GTPase 2 [Source:UniProtKB/TrEMBL%3BAcc:Q16P30];ebi_biotype=protein_coding
+AaegL5_3	6317707	6318519	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008249;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	6328599	6330340	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008250;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	6340759	6399832	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008244;description=thyroid hormone receptor-associated protein;ebi_biotype=protein_coding
+AaegL5_3	6417447	6430230	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008253;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	6573366	6578625	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008257;description=heterogeneous nuclear ribonucleoprotein 27c;ebi_biotype=protein_coding
+AaegL5_3	8877783	8878608	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009373;description=n-acetyltransferase;ebi_biotype=protein_coding
+AaegL5_3	9148385	9225251	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008184;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	10582254	10606422	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013965;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	10781309	11116591	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010061;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	15552448	15826945	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006488;description=nucleoporin%2C p88%2C putative;ebi_biotype=protein_coding
+AaegL5_3	18365509	18721899	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009847;description=microtubule-associated protein;ebi_biotype=protein_coding
+AaegL5_3	21459207	21461042	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011658;description=plasma glutamate carboxypeptidase;ebi_biotype=protein_coding
+AaegL5_3	21951666	22064898	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011652;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	22895987	22949006	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009666;description=set domain protein;ebi_biotype=protein_coding
+AaegL5_3	23333348	23334838	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009448;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	23396111	23417756	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014072;description=tip60;ebi_biotype=protein_coding
+AaegL5_3	26150416	26192468	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003924;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	26810337	26825316	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013749;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	26826667	26890297	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019589;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	27817681	27931001	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018126;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	27977949	27979484	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006945;description=golgi SNAP receptor complex member%2C putative;ebi_biotype=protein_coding
+AaegL5_3	30660649	31243994	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019845;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	31687438	31689980	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000978;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	32495748	32529182	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008828;description=carbonic anhydrase;ebi_biotype=protein_coding
+AaegL5_3	33311014	33351753	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006020;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	33367230	33421182	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006043;description=Gc-rich sequence DNA-binding factor [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FCG8];ebi_biotype=protein_coding
+AaegL5_3	33602591	33603911	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006039;description=dehydrodolichyl diphosphate synthase (dedol-pp synthase);ebi_biotype=protein_coding
+AaegL5_3	33615091	33707112	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006022;description=myotubularin;ebi_biotype=protein_coding
+AaegL5_3	33725078	33758514	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013321;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	34142643	34143840	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013320;description=translocon-associated protein%2C delta subunit;ebi_biotype=protein_coding
+AaegL5_3	34332506	34471101	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019882;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	34506955	34686835	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005364;description=adaptin%2C alpha/gamma/epsilon;ebi_biotype=protein_coding
+AaegL5_3	34727278	34731033	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005353;description=Sugar transporter SWEET [Source:UniProtKB/TrEMBL%3BAcc:Q17A97];ebi_biotype=protein_coding
+AaegL5_3	36786198	36823390	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019999;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	37881241	37883846	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011114;description=serine/threonine-protein kinase rio2 (rio kinase 2);ebi_biotype=protein_coding
+AaegL5_3	37896951	37907748	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011117;description=Histone deacetylase [Source:UniProtKB/TrEMBL%3BAcc:Q16QZ8];ebi_biotype=protein_coding
+AaegL5_3	38141426	38142622	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011135;description=GPN-loop GTPase 3 [Source:UniProtKB/TrEMBL%3BAcc:Q16QZ2];ebi_biotype=protein_coding
+AaegL5_3	41336525	41367523	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008373;description=Dipeptidyl-peptidase [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FJA4];ebi_biotype=protein_coding
+AaegL5_3	41479666	41497078	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008375;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	44615323	44616703	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020521;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	44737674	44757365	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006577;description=aspartyl-tRNA synthetase;ebi_biotype=protein_coding
+AaegL5_3	45672346	45699552	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011969;description=protein-s isoprenylcysteine o-methyltransferase;ebi_biotype=protein_coding
+AaegL5_3	47737523	47739247	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001354;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	47754616	47782173	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001352;description=scaffold attachment factor b;ebi_biotype=protein_coding
+AaegL5_3	47913107	47938920	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001357;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	48935766	48954029	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL001332;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	50280857	50360989	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008928;Name=Kir2A;description=inward-rectifying potassium channel;ebi_biotype=protein_coding
+AaegL5_3	51218603	51279389	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014699;description=ABC transporter [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4G2N2];ebi_biotype=protein_coding
+AaegL5_3	51592105	51630214	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019717;description=Mitochondrial phosphate carrier protein [Source:UniProtKB/TrEMBL%3BAcc:Q1HQX9];ebi_biotype=protein_coding
+AaegL5_3	51683465	51689451	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010819;description=vacuolar ATP synthase subunit H;ebi_biotype=protein_coding
+AaegL5_3	51727676	51748610	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010823;description=ATP synthase delta chain;ebi_biotype=protein_coding
+AaegL5_3	53575002	53588976	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008189;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	53786517	53787664	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012739;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	55529578	55564872	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001036;description=ikappab kinase complex-associated protein;ebi_biotype=protein_coding
+AaegL5_3	55680110	55880283	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001046;description=phosphatase fragment;ebi_biotype=protein_coding
+AaegL5_3	55924963	55926291	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001038;description=cak1;ebi_biotype=protein_coding
+AaegL5_3	59914324	60121204	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005492;description=protein-tyrosine phosphatase n9;ebi_biotype=protein_coding
+AaegL5_3	62931653	63116730	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006254;Name=GlcAT-P;description=beta-1%2C3-glucuronyltransferase s%2C p;ebi_biotype=protein_coding
+AaegL5_3	64425950	64592823	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019716;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	65346006	65405296	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003658;description=laminin beta-2 chain;ebi_biotype=protein_coding
+AaegL5_3	65770169	66596795	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020547;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	66628174	66885763	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL023335;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	68760443	68791036	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006150;description=brca1-associated protein (brap2);ebi_biotype=protein_coding
+AaegL5_3	69557751	69582099	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006143;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	69619372	69627851	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006151;description=serine protease%2C putative;ebi_biotype=protein_coding
+AaegL5_3	69780856	69810513	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007135;description=peroxiredoxin 5%2C prdx5;ebi_biotype=protein_coding
+AaegL5_3	73675145	73702296	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006050;description=nuclear RNA export factor 2 (NXF2)%2C putative;ebi_biotype=protein_coding
+AaegL5_3	81325312	81350130	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003361;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	81512576	81530440	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003383;description=actin;ebi_biotype=protein_coding
+AaegL5_3	82780372	82809229	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005092;description=n-myristoyl transferase;ebi_biotype=protein_coding
+AaegL5_3	84323791	84341355	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013197;description=Chitin-binding type-4 domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FYP2];ebi_biotype=protein_coding
+AaegL5_3	88944298	88945032	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005232;description=cyclin-dependent kinases regulatory subunit. putative;ebi_biotype=protein_coding
+AaegL5_3	93693349	93697984	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004350;description=janus A%2C putative;ebi_biotype=protein_coding
+AaegL5_3	93728700	93732069	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004376;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	93798225	93801541	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004364;description=WD_REPEATS_REGION domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F7D5];ebi_biotype=protein_coding
+AaegL5_3	93809721	93821803	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004355;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	93850301	93873251	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018322;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	94214947	94231730	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004352;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	94365277	94571291	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004351;description=casein kinase;ebi_biotype=protein_coding
+AaegL5_3	94844991	94863577	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011584;description=chaperonin-60kD%2C ch60;ebi_biotype=protein_coding
+AaegL5_3	95164999	95166221	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008700;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	95746357	95778044	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008714;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	95840613	95857545	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008706;description=smooth muscle caldesmon%2C putative;ebi_biotype=protein_coding
+AaegL5_3	100052034	100147518	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013309;description=high-affinity copper uptake protein;ebi_biotype=protein_coding
+AaegL5_3	102915807	102917099	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000010;Name=Rpl36-1;description=60S ribosomal protein L36 [Source:UniProtKB/TrEMBL%3BAcc:Q1HR17];ebi_biotype=protein_coding
+AaegL5_3	102950064	102966556	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000005;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	102966623	102980196	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000065;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	104479009	104483711	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000004;description=glycosyltransferase;ebi_biotype=protein_coding
+AaegL5_3	106964923	107226182	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011563;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	107372217	107372981	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008128;description=mitochondrial inner membrane protein translocase%2C 13kD-subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_3	107404545	107431730	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008134;description=ABC transporter;ebi_biotype=protein_coding
+AaegL5_3	109099833	109119996	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000213;description=d-amino acid oxidase;ebi_biotype=protein_coding
+AaegL5_3	109548548	109549679	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000163;description=mitochondrial inner membrane protein translocase%2C 22kD-subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_3	109706030	109733078	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004471;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	110080931	110082028	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004482;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	110108241	110239323	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004474;description=non-receptor serine/threonine protein kinase;ebi_biotype=protein_coding
+AaegL5_3	111383613	111390807	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012413;description=n-acetyltransferase mak3;ebi_biotype=protein_coding
+AaegL5_3	111476554	111478389	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011770;Name=CYP325L1;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_3	113364323	113382576	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011819;description=Cohesin loading complex subunit SCC4 homolog;ebi_biotype=protein_coding
+AaegL5_3	113925111	113987935	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021519;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	113992543	114013357	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018026;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	115465515	115478449	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005706;description=triacylglycerol lipase;ebi_biotype=protein_coding
+AaegL5_3	115505898	115525630	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005699;description=membrane protein tms1d;ebi_biotype=protein_coding
+AaegL5_3	117311704	117328979	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004200;description=DNA replication licensing factor MCM8;ebi_biotype=protein_coding
+AaegL5_3	121455945	121646621	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019566;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	121823644	121836945	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL017458;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	121836987	121869934	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009893;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	121945078	121954641	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009883;description=26S protease (S4) regulatory subunit%2C putative [Source:UniProtKB/TrEMBL%3BAcc:Q16UJ3];ebi_biotype=protein_coding
+AaegL5_3	121965910	122095788	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009895;description=neprilysin;ebi_biotype=protein_coding
+AaegL5_3	127239003	127305706	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019758;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	127453977	127480002	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002437;description=symplekin;ebi_biotype=protein_coding
+AaegL5_3	129324812	129341615	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002789;description=26S proteasome non-ATPase regulatory subunit;ebi_biotype=protein_coding
+AaegL5_3	131949758	131950288	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008044;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	132650974	132663676	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008787;Name=VhaA;description=V-type proton ATPase catalytic subunit A (V-ATPase subunit A)(EC 3.6.3.14)(Vacuolar proton pump subunit alpha)(V-ATPase 69 kDa subunit);ebi_biotype=protein_coding
+AaegL5_3	133363699	133364553	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008811;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	133381195	133390671	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008793;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	135389991	135443848	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009092;description=longevity assurance factor 1 (lag1);ebi_biotype=protein_coding
+AaegL5_3	138401411	138418395	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005918;description=ATP-binding cassette transporter;ebi_biotype=protein_coding
+AaegL5_3	138423492	138424598	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005926;description=ER lumen protein retaining receptor;ebi_biotype=protein_coding
+AaegL5_3	140303287	140442473	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006188;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	140453771	140485193	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006186;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	140486535	140487249	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006175;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	140622130	140634404	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017064;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	140939778	140964547	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006179;description=tubulin alpha chain;ebi_biotype=protein_coding
+AaegL5_3	141825809	141910203	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018113;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	147384920	147413227	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014063;description=activating signal cointegrator 1 complex subunit 3%2C helc1;ebi_biotype=protein_coding
+AaegL5_3	149543373	149545222	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019856;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	153718750	153784490	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004141;description=phosphatidylinositol transfer protein/retinal degeneration b protein;ebi_biotype=protein_coding
+AaegL5_3	155909042	155910344	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023115;description=Putative splicing factor 3b subunit 4 [Source:UniProtKB/TrEMBL%3BAcc:A0A0P6J4K1];ebi_biotype=protein_coding
+AaegL5_3	156737871	156741469	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010797;Name=Med21;description=Mediator of RNA polymerase II transcription subunit 21 (Med21);ebi_biotype=protein_coding
+AaegL5_3	157526071	157549610	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010217;Name=ix;description=Mediator of RNA polymerase II transcription subunit 29 (Mediator complex subunit 29)(Protein intersex);ebi_biotype=protein_coding
+AaegL5_3	160290854	160331523	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012079;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	160440767	160460598	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012071;description=ras;ebi_biotype=protein_coding
+AaegL5_3	161179434	161182495	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000508;description=fibrinogen and fibronectin;ebi_biotype=protein_coding
+AaegL5_3	161434190	161452975	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000475;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	167521980	167641782	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023509;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	170641308	170651620	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007007;description=DNA replication licensing factor MCM2;ebi_biotype=protein_coding
+AaegL5_3	170971511	170973518	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007009;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	171446730	171448660	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006984;Name=CYP6AG5;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_3	171457896	171470349	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007016;description=sodium/solute symporter;ebi_biotype=protein_coding
+AaegL5_3	172443114	172454736	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008650;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	173036666	173096234	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019935;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	173160439	173164217	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013400;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_3	173349963	173374970	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013390;description=serine/threonine protein kinase;ebi_biotype=protein_coding
+AaegL5_3	173951646	173970389	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005902;description=FPL domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FC19];ebi_biotype=protein_coding
+AaegL5_3	175255253	175264162	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005898;description=tRNA-dihydrouridine synthase;ebi_biotype=protein_coding
+AaegL5_3	176079127	176433229	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009173;description=fasciclin ii (fas ii);ebi_biotype=protein_coding
+AaegL5_3	177671367	177791757	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002130;description=ecdysone inducible protein L2%2C putative;ebi_biotype=protein_coding
+AaegL5_3	178392794	178406025	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002089;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	179007006	179044315	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002120;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_3	179044432	179058671	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002106;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	180014980	180042724	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003569;description=acyl-coa thioesterase;ebi_biotype=protein_coding
+AaegL5_3	180145389	180176591	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003573;description=transportin;ebi_biotype=protein_coding
+AaegL5_3	183240683	183277927	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000439;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	185188214	185189089	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000465;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	185670183	185720874	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000427;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	185920996	185966145	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000450;description=ras GTPase activating protein;ebi_biotype=protein_coding
+AaegL5_3	187218216	187345396	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018314;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	188019800	188025692	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014014;description=ornithine cyclodeaminase;ebi_biotype=protein_coding
+AaegL5_3	190664897	190703165	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018132;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	195776629	195799929	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007292;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	196714878	196732607	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007280;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	196733985	196756063	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007289;description=NBP2b protein%2C putative;ebi_biotype=protein_coding
+AaegL5_3	197692042	197697572	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014847;Name=inx2;description=Innexin [Source:UniProtKB/TrEMBL%3BAcc:Q16FA2];ebi_biotype=protein_coding
+AaegL5_3	198028017	198089724	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008575;description=regulator of chromosome condensation;ebi_biotype=protein_coding
+AaegL5_3	200124263	200159234	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009273;description=inosine-5-monophosphate dehydrogenase;ebi_biotype=protein_coding
+AaegL5_3	202742756	202750507	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009811;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	202868379	202910677	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009815;description=myotubularin;ebi_biotype=protein_coding
+AaegL5_3	203115918	203124373	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009810;description=sideroflexin 1%2C2%2C3;ebi_biotype=protein_coding
+AaegL5_3	203251847	203256779	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011827;description=Nucleolar complex protein 3 homolog [Source:UniProtKB/TrEMBL%3BAcc:Q16NX8];ebi_biotype=protein_coding
+AaegL5_3	203449421	203491588	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011826;description=DUF1741 domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FUC6];ebi_biotype=protein_coding
+AaegL5_3	204254602	204255500	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014944;description=cytochrome c oxidase polypeptide;ebi_biotype=protein_coding
+AaegL5_3	205194242	205214647	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004419;description=ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_3	205815507	205895629	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004440;description=tubulin-specific chaperone e;ebi_biotype=protein_coding
+AaegL5_3	206098644	206150954	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012945;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	206533317	206534611	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004436;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	210810873	210867464	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009547;description=NAD dehydrogenase [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FMS9];ebi_biotype=protein_coding
+AaegL5_3	212829515	212830735	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000173;description=chromatin assembly factor-I p150 subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_3	212830845	212839647	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000179;description=ubiquitin-conjugating enzyme E2 l;ebi_biotype=protein_coding
+AaegL5_3	213030436	213035124	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000215;description=ribonuclease P%2C 29kD-subunit%2C putative;ebi_biotype=protein_coding
+AaegL5_3	213099515	213100251	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000206;description=ninjurin A%2C putative;ebi_biotype=protein_coding
+AaegL5_3	216221169	216227720	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000210;Name=mRpL2;description=mitochondrial ribosomal protein L2;ebi_biotype=protein_coding
+AaegL5_3	216628725	216631327	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006453;description=B-cell lymphoma/leukaemia 11A extra long form%2C putative;ebi_biotype=protein_coding
+AaegL5_3	218468945	218520260	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL023019;description=RBR-type E3 ubiquitin transferase [Source:UniProtKB/TrEMBL%3BAcc:A0A0P6J528];ebi_biotype=protein_coding
+AaegL5_3	218755459	218834206	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005845;description=beta chain spectrin;ebi_biotype=protein_coding
+AaegL5_3	220218863	220219980	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005851;description=exosome complex exonuclease rrp42 (ribosomal RNA processing protein 42);ebi_biotype=protein_coding
+AaegL5_3	221419592	221445499	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003481;description=Glycosyltransferase 25 family member Precursor (EC 2.-.-.-);ebi_biotype=protein_coding
+AaegL5_3	222640015	222641284	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008584;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	223525278	223526327	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011866;description=DNA-directed RNA polymerase III 25 kDa polypeptide;ebi_biotype=protein_coding
+AaegL5_3	224862094	224864372	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008376;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	226961389	226999308	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001920;description=SET domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4F084];ebi_biotype=protein_coding
+AaegL5_3	227038315	227082917	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001939;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	233683278	233767781	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002850;description=patched 1%2C;ebi_biotype=protein_coding
+AaegL5_3	235027851	235063036	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002834;description=myo-inositol-1 phosphate synthase;ebi_biotype=protein_coding
+AaegL5_3	236778646	236779791	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008865;description=oligoribonuclease%2C mitochondrial;ebi_biotype=protein_coding
+AaegL5_3	239485603	239486260	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011233;description=SM protein G%2C putative;ebi_biotype=protein_coding
+AaegL5_3	242494868	242508475	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012502;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	245187462	245516346	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019580;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	246182328	246184034	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL015607;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	250275812	250277434	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008271;description=SEC14%2C putative;ebi_biotype=protein_coding
+AaegL5_3	250285190	250308129	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008282;Name=GPRNPR4;description=GPCR Neurokinin/Tachykinin Family;ebi_biotype=protein_coding
+AaegL5_3	253906064	253914468	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003990;description=myeloid leukemia factor%2C;ebi_biotype=protein_coding
+AaegL5_3	253991534	254011974	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003995;description=zinc binding dehydrogenase;ebi_biotype=protein_coding
+AaegL5_3	255383232	255387729	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007715;Name=RpL21;description=60S ribosomal protein L21 [Source:UniProtKB/TrEMBL%3BAcc:Q1HRN4];ebi_biotype=protein_coding
+AaegL5_3	255510455	255557317	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007712;Name=Tsc2;description=tuberous sclerosis 2;ebi_biotype=protein_coding
+AaegL5_3	255693666	256074016	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018146;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	257579282	257585209	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002583;Name=TOLL7;description=Toll-like receptor;ebi_biotype=protein_coding
+AaegL5_3	259768919	259769672	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006117;Name=mRpL12;description=39S ribosomal protein L12%2C mitochondrial [Source:UniProtKB/TrEMBL%3BAcc:Q1HQL1];ebi_biotype=protein_coding
+AaegL5_3	260911383	260923936	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001511;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	263395590	263397570	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001515;Name=DEBCL;description=autophagy related gene DEBCL;ebi_biotype=protein_coding
+AaegL5_3	263620390	263660242	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003540;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	264090580	264127043	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003535;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	265360381	265382754	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019937;description=Superoxide dismutase [Cu-Zn] [Source:UniProtKB/TrEMBL%3BAcc:Q1HRN3];ebi_biotype=protein_coding
+AaegL5_3	266908141	266927275	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003959;description=short-chain dehydrogenase;ebi_biotype=protein_coding
+AaegL5_3	267714462	267716130	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003954;description=juvenile hormone-inducible protein%2C putative;ebi_biotype=protein_coding
+AaegL5_3	268252805	268268402	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003976;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	268285058	268319782	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003957;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	271272464	271277231	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004407;description=allergen%2C putative;ebi_biotype=protein_coding
+AaegL5_3	275885734	275993418	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019420;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	276420745	276447378	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011328;description=zinc finger protein;ebi_biotype=protein_coding
+AaegL5_3	277965088	278522388	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003111;description=tartan;ebi_biotype=protein_coding
+AaegL5_3	278910238	278992961	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010256;description=E3 ubiquitin ligase;ebi_biotype=protein_coding
+AaegL5_3	279482637	279502968	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012912;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	280512273	280514990	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019510;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	281070298	281071794	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008743;description=tetratricopeptide repeat protein%2C putative;ebi_biotype=protein_coding
+AaegL5_3	281085626	281116799	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008738;description=DEAD box ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_3	281231082	281242949	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008725;description=Conserved oligomeric Golgi complex subunit 8 [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FK99];ebi_biotype=protein_coding
+AaegL5_3	281252694	281293381	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021211;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	281567442	281571777	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011630;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	284483288	284499156	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL009754;description=endophilin b;ebi_biotype=protein_coding
+AaegL5_3	287818934	287824800	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011001;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	290974471	291017146	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011732;description=prip interacting protein. pimt;ebi_biotype=protein_coding
+AaegL5_3	291058553	291082346	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011741;Name=GSTS1;description=glutathione transferase;ebi_biotype=protein_coding
+AaegL5_3	291095856	291096990	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011736;description=cyclohex-1-ene-1-carboxyl-CoA hydratase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	291571788	291592357	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010607;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	292191512	292197891	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL023221;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	293189560	293215801	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014212;description=androgen induced inhibitor of proliferation (as3) / pds5;ebi_biotype=protein_coding
+AaegL5_3	293563093	293640447	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL017338;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	295086990	295110070	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011067;description=tubulin-specific chaperone%2C putative;ebi_biotype=protein_coding
+AaegL5_3	295109921	295120591	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014253;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	295188203	295190591	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014256;description=ATP-dependent RNA helicase;ebi_biotype=protein_coding
+AaegL5_3	295458530	295500019	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007931;description=P21-activated kinase%2C pak;ebi_biotype=protein_coding
+AaegL5_3	297194881	297204377	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012989;description=Nuclear pore complex protein Nup85 [Source:UniProtKB/TrEMBL%3BAcc:Q16KI2];ebi_biotype=protein_coding
+AaegL5_3	297213692	297214658	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012990;description=mrg-binding protein;ebi_biotype=protein_coding
+AaegL5_3	297898212	297924078	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009368;description=lipoic acid synthetase;ebi_biotype=protein_coding
+AaegL5_3	298031537	298097275	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL012134;description=pur-alpha;ebi_biotype=protein_coding
+AaegL5_3	298653527	298671451	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007067;description=WD-repeat protein;ebi_biotype=protein_coding
+AaegL5_3	299688269	299688998	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007054;description=NADH dehydrogenase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	299801258	299816294	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007042;description=far upstream (fuse) binding protein;ebi_biotype=protein_coding
+AaegL5_3	299827729	299841317	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007049;description=proteasome subunit beta type;ebi_biotype=protein_coding
+AaegL5_3	301362203	301379026	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003626;description=sodium/chloride dependent amino acid transporter;ebi_biotype=protein_coding
+AaegL5_3	301469545	301554077	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003618;description=sodium/chloride dependent amino acid transporter;ebi_biotype=protein_coding
+AaegL5_3	301564431	301941839	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL014203;description=nervy;ebi_biotype=protein_coding
+AaegL5_3	302167651	302211366	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014158;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	302235689	302258186	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL008146;description=zinc transporter;ebi_biotype=protein_coding
+AaegL5_3	309576894	309579242	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005309;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	310622515	310623412	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013045;description=exosome complex exonuclease RRP41%2C putative;ebi_biotype=protein_coding
+AaegL5_3	310922667	310936790	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013049;description=nitrilase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	312986637	313140457	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021732;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	313397122	313399123	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014516;description=metalloproteinase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	313404100	313416674	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014515;description=metalloproteinase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	313628105	313671798	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018710;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	315246061	315252688	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011587;Name=RpL27;description=60S ribosomal protein L27%2C putative;ebi_biotype=protein_coding
+AaegL5_3	315542317	315544574	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006023;description=Vanin-like protein 1 precursor%2C putative;ebi_biotype=protein_coding
+AaegL5_3	317007875	317016515	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013478;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	317920400	318296327	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019543;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	319542703	319617628	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021353;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	320125588	320140833	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL013783;description=protein farnesyltransferase alpha subunit;ebi_biotype=protein_coding
+AaegL5_3	323142845	323173778	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL004942;description=helicase;ebi_biotype=protein_coding
+AaegL5_3	323877320	324230807	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005002;description=roundabout;ebi_biotype=protein_coding
+AaegL5_3	325405142	325520808	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL019932;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	326005350	326006201	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008763;description=tata-binding protein-associated phosphoprotein (dr1);ebi_biotype=protein_coding
+AaegL5_3	326858088	326948499	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL008760;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	328879440	328893881	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011425;description=structure-specific recognition protein;ebi_biotype=protein_coding
+AaegL5_3	330092165	330115756	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003508;description=serine-pyruvate aminotransferase;ebi_biotype=protein_coding
+AaegL5_3	330122617	330142807	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003285;Name=TRAM;description=translocation associated membrane protein;ebi_biotype=protein_coding
+AaegL5_3	330308364	330322360	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003318;description=oligopeptide transporter;ebi_biotype=protein_coding
+AaegL5_3	332256182	332267457	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000857;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	332993822	333018470	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000918;description=Carboxylic ester hydrolase [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4EXB7];ebi_biotype=protein_coding
+AaegL5_3	334058352	334068741	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000925;description=leucine-zipper-like transcriptional regulator 1 (LZTR-1);ebi_biotype=protein_coding
+AaegL5_3	335611133	335951315	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000860;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	337639649	337649895	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021481;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	337658003	337658582	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011908;description=histone H1%2C putative;ebi_biotype=protein_coding
+AaegL5_3	338101143	338147293	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020123;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	338223215	338397366	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL002469;description=endophilin a%2C;ebi_biotype=protein_coding
+AaegL5_3	339280451	339297273	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL012851;description=WD-repeat protein;ebi_biotype=protein_coding
+AaegL5_3	340157006	340159328	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003293;description=GTP-binding protein;ebi_biotype=protein_coding
+AaegL5_3	341031042	341032473	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL013221;Name=RpL10a;description=60S ribosomal protein L10a;ebi_biotype=protein_coding
+AaegL5_3	342815869	342818961	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003817;description=kappa b-ras;ebi_biotype=protein_coding
+AaegL5_3	342818915	342848644	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003831;description=fatty acid hydroxylase;ebi_biotype=protein_coding
+AaegL5_3	343041062	343175751	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003837;description=ryanodine receptor 3%2C brain;ebi_biotype=protein_coding
+AaegL5_3	345420941	345446687	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005134;description=arylsulfatase b;ebi_biotype=protein_coding
+AaegL5_3	345618231	345687791	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005147;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	348325525	348327664	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL003435;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	349776022	349789479	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003443;description=threonine dehydrogenase;ebi_biotype=protein_coding
+AaegL5_3	349876366	349876933	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL003417;description=mitochondrial ATPase inhibitor%2C putative;ebi_biotype=protein_coding
+AaegL5_3	350872035	350874366	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL011925;Name=mRpS31;description=mitochondrial ribosomal protein%2C S31%2C putative;ebi_biotype=protein_coding
+AaegL5_3	352880241	352883382	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020946;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	353229040	353233671	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006693;description=uroporphyrinogen decarboxylase;ebi_biotype=protein_coding
+AaegL5_3	353440799	353442172	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006704;description=fibrinogen and fibronectin;ebi_biotype=protein_coding
+AaegL5_3	363832716	363846452	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000802;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	368519629	368521442	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019504;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	368529678	368534701	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014604;description=cytochrome P450;ebi_biotype=protein_coding
+AaegL5_3	371446106	371496958	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001587;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	374487708	374605841	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002308;description=butyrate response factor 1 (TIS11B protein);ebi_biotype=protein_coding
+AaegL5_3	375960804	375970997	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL002303;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	377068940	377073114	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000965;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	377072855	377073631	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000936;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	377081000	377098160	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000934;description=clathrin light chain;ebi_biotype=protein_coding
+AaegL5_3	380008625	380073169	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000956;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	380083351	380089947	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000958;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	380674226	380698703	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009407;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	381563684	381586941	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007882;description=histone H1%2C putative;ebi_biotype=protein_coding
+AaegL5_3	382019493	382178744	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022979;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	388129393	388216451	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000549;description=fibulin 1 and;ebi_biotype=protein_coding
+AaegL5_3	388808427	388863738	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020625;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	389406738	389419328	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007257;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	389419490	389423239	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL007267;description=suppressor of ty3;ebi_biotype=protein_coding
+AaegL5_3	389423177	389438182	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007256;description=DNA helicase recq1;ebi_biotype=protein_coding
+AaegL5_3	389471349	389472902	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL014554;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	389718384	389720764	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019816;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	389720949	389750304	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL019817;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	390244871	390280243	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007259;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	390994283	390998347	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL009195;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	395144532	395145604	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000677;description=DNA-directed RNA polymerase subunit rpb8;ebi_biotype=protein_coding
+AaegL5_3	395645366	395701905	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL000649;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	395896181	395919416	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021450;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	396578080	396589607	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL006342;description=epoxide hydrolase;ebi_biotype=protein_coding
+AaegL5_3	400031873	400032927	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL000394;description=U2 small nuclear ribonucleoprotein%2C putative;ebi_biotype=protein_coding
+AaegL5_3	401814129	401830828	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL004107;description=nucleoside diphosphate kinase%2C putative;ebi_biotype=protein_coding
+AaegL5_3	404257505	404265962	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL005585;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	405791124	405819833	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL001146;description=n-acetylgalactosaminyltransferase;ebi_biotype=protein_coding
+AaegL5_3	408308996	408317909	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL007390;description=UDP-glucose 4-epimerase;ebi_biotype=protein_coding
+AaegL5_3	408922580	408925203	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010302;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	408961404	408973719	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010303;description=unspecified product;ebi_biotype=protein_coding
+AaegL5_3	409278859	409281450	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL010299;Name=RpS12;description=40S ribosomal protein S12 [Source:UniProtKB/TrEMBL%3BAcc:Q1HRM3];ebi_biotype=protein_coding
+AaegL5_3	409314548	409328447	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL010321;description=porphobilinogen deaminase;ebi_biotype=protein_coding
+AaegL5_MT	69	1095	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018658;Name=ND2;description=NADH dehydrogenase subunit 2;ebi_biotype=protein_coding
+AaegL5_MT	5461	5790	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL018671;Name=ND3;description=NADH dehydrogenase subunit 3;ebi_biotype=protein_coding
+AaegL5_MT	6212	7955	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL018678;Name=ND5;description=NADH dehydrogenase subunit 5;ebi_biotype=protein_coding
+NIGP01000412	1978	3323	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL022632;description=unspecified product;ebi_biotype=protein_coding
+NIGP01000470	45612	51275	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL020197;description=unspecified product;ebi_biotype=protein_coding
+NIGP01000470	127096	148580	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020080;description=unspecified product;ebi_biotype=protein_coding
+NIGP01000516	11076	13557	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL020447;description=40S ribosomal protein S20 [Source:UniProtKB/TrEMBL%3BAcc:Q1HRS9];ebi_biotype=protein_coding
+NIGP01000525	24775	25826	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL006081;description=NADPH fad oxidoreductase;ebi_biotype=protein_coding
+NIGP01000823	20296	34319	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL021742;description=unspecified product;ebi_biotype=protein_coding
+NIGP01000892	214119	247365	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL005893;description=CRC domain-containing protein [Source:UniProtKB/TrEMBL%3BAcc:A0A1S4FBW1];ebi_biotype=protein_coding
+NIGP01000976	42765	58025	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL011025;description=vacuolar ATP synthase subunit ac39;ebi_biotype=protein_coding
+NIGP01001341	13212	29800	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022406;description=unspecified product;ebi_biotype=protein_coding
+NIGP01001408	8893	9729	.	.	+	VEuPathDB	protein_coding_gene	.	ID=AAEL024747;description=unspecified product;ebi_biotype=protein_coding
+NIGP01001547	16408	17339	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL021837;description=unspecified product;ebi_biotype=protein_coding
+NIGP01002263	20943	27275	.	.	-	VEuPathDB	protein_coding_gene	.	ID=AAEL022067;description=unspecified product;ebi_biotype=protein_coding
